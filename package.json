@@ -6,7 +6,7 @@
     "name": "Sandeep Bhupathi"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "6.9.x"
   },
   "scripts": {
     "start": "node express-server.js --use_strict"
